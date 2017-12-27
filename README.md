@@ -8,6 +8,6 @@ _**In English...**_
 
 # olá-mundo :p
 Repository used to learn about GitHub.
-The containing in this repository may include test files, soluction of simple problems and auxiliary files, whose reason is only to explore this important tool. But don't get used to it! It's possible this repository be deleted no long, if it's no longer necessary.
+The containing in this repository may include test files, soluction of simple problems and auxiliary files, whose reason is only to explore this important tool. But don't get used to it! It's possible this repository be deleted as soon as it's no longer necessary.
 
 **Renan Passos**, author of this repository and this *readme.md* studies **Electronic and Computer Engineering** at the Federal University of Rio de Janeiro, today in the 6th semester (2018) and want's to learn more about Linux, open-source projects in general and programming languages.
